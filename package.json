@@ -1,0 +1,24 @@
+{
+  "name": "hack-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariiaCao/hack-serverless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariiaCao/hack-serverless/issues"
+  },
+  "homepage": "https://github.com/MariiaCao/hack-serverless#readme",
+  "dependencies": {
+    "middy": "^0.36.0",
+    "netlify-cli": "^12.2.6"
+  }
+}
